@@ -1,1 +1,1 @@
-My first readme, making an update to be pulled
+My first readme, updated to be pulled.
